@@ -36,3 +36,32 @@ body
 {
     font-size: 20px;
 }
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+  }
+  
+  .mi-boton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    border: none;
+    font-size: 16px;
+  }
+  
+  .mi-boton:hover {
+    background-color: #45a049;
+  }
+
+#Centrar
+{
+    text-align: center;
+    padding-top: 130px;
+}
+  
